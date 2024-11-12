@@ -1,0 +1,64 @@
+body {
+    background-color: #E6E6FA;
+    color: #4B0082;
+    padding: 10px;
+    margin: 5px;
+}
+
+h1 {
+    font-family: "Courier New", monospace;
+    font-size: 2em;
+}
+
+p {
+    font-family: "Arial", sans-serif;
+    font-size: 1.25em;
+}
+
+.author_notation {
+    font-size: 1.75em;
+}
+
+.general_link {
+    background-color: #FFD700;
+    color: #B22222;
+}
+
+.book_quote {
+    background-color: #696969;
+    color: #F8F8FF;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.chapbook_title {
+    background-color: #8A2BE2;
+    color: #FF00FF;
+    font-family: "Arial", sans-serif;
+    font-size:1.5em;
+    margin:2px;
+    margin-top:6px;
+    margin-bottom:12px;
+}
+
+.poemlisting_title {
+    background-color: #00BFFF;
+    color: #483D8B;
+    font-size:1.3em;
+    margin: 4px;
+    margin-top: 4px;
+    margin-bottom: 8px;
+}
+
+.general_nav {
+    background-color: #FFFAF0;
+    color: #808080;
+}
+
+.listing_nav {
+    background-color: #00BFFF;
+    color: #483D8B;
+}
